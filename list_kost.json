@@ -12,7 +12,9 @@
           "fasilitas": "K. Mandi Dalam, AC, Kloset Duduk, Kasur, WiFi",
           "peraturan": "Akses 24 Jam, Dilarang merokok di kamar, Lawan jenis dilarang ke kamar",
           "x": "-7.3180616",
-          "y": "112.7648088"
+          "y": "112.7648088",
+          "rating": 4.2,
+          "favorite": false
        },
        {
           "id": 2,
@@ -26,7 +28,9 @@
           "fasilitas": "K. Mandi Dalam, AC, Kasur, Lemari, Meja Belajar, WiFi, Parkir Motor",
           "peraturan": "Akses 24 Jam, Dilarang merokok di dalam kamar",
           "x": "-7.319306",
-          "y": "112.7664506"
+          "y": "112.7664506",
+          "rating": 4.0,
+          "favorite": true
        },
        {
           "id": 3,
@@ -40,7 +44,9 @@
           "fasilitas": "K. Mandi Dalam, AC, TV, Lemari, Kasur, Meja Belajar, WiFi",
           "peraturan": "Akses 24 Jam, Dilarang merokok di dalam kamar, Tidak boleh membawa hewan peliharaan",
           "x": "-7.319303",
-          "y": "112.766352"
+          "y": "112.766352",
+          "rating": 4.0,
+          "favorite": true
        },
        {
           "id": 4,
@@ -54,7 +60,9 @@
         "fasilitas": "K. Mandi Dalam, AC, Kasur, Lemari, Meja Belajar, WiFi",
         "peraturan": "Akses 24 Jam, Dilarang merokok di dalam kamar, Tidak boleh membawa hewan peliharaan",
         "x": "-7.293136",
-        "y": "112.742386"
+        "y": "112.742386",
+        "rating": 4.5,
+        "favorite": false
       },
       {
         "id": 5,
@@ -68,7 +76,9 @@
         "fasilitas": "K. Mandi Dalam, AC, Kasur, Lemari, Meja Belajar, WiFi",
         "peraturan": "Akses 24 Jam, Dilarang merokok di dalam kamar, Tidak boleh membawa hewan peliharaan",
         "x": "-7.290569",
-       "y": "112.741968"
+        "y": "112.741968"
+        "rating": 3.0,
+        "favorite": true
     }
     ]   
 }
