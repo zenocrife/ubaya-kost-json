@@ -1,0 +1,74 @@
+{
+    "kosts": [
+       {
+          "id": 1,
+          "name": "Kost Apik UBAYA Si Mbok",
+          "gender": "Putra",
+          "region": "Rungkut",
+          "price": "1.377.000",
+          "photoUrl": "https://static.mamikos.com/uploads/cache/data/style/2021-12-20/66OwE1Em-360x480.jpg",
+          "alamat": "Jl. Rungkut Mejoyo Utara  Blok AN 38 , Kali Rungkut, Kecamatan Rungkut, Surabaya",
+          "luas": "2.5 x 2.5",
+          "fasilitas": "K. Mandi Dalam, AC, Kloset Duduk, Kasur, WiFi",
+          "peraturan": "Akses 24 Jam, Dilarang merokok di kamar, Lawan jenis dilarang ke kamar",
+          "x": "-7.3180616",
+          "y": "112.7648088"
+       },
+       {
+          "id": 2,
+          "name": "Kost D'Tepian Residence",
+          "gender": "Putra",
+          "region": "Rungkut",
+          "price": "1.450.000",
+          "photoUrl": "https://static.mamikos.com/uploads/cache/data/style/2021-10-19/2TmQALwE-360x480.jpg",
+          "alamat": "Jl. Rungkut Tengah No. 36, Kali Rungkut, Surabaya",
+          "luas": "3 x 3",
+          "fasilitas": "K. Mandi Dalam, AC, Kasur, Lemari, Meja Belajar, WiFi, Parkir Motor",
+          "peraturan": "Akses 24 Jam, Dilarang merokok di dalam kamar",
+          "x": "-7.319306",
+          "y": "112.7664506"
+       },
+       {
+          "id": 3,
+          "name": "Kost Elite Universitas Ubaya",
+          "gender": "Putri",
+          "region": "Rungkut",
+          "price": "1.600.000",
+          "photoUrl": "https://static.mamikos.com/uploads/cache/data/style/2021-07-08/2kOtP3Zh-360x480.jpg",
+          "alamat": "Jl. Rungkut Mejoyo Utara, Rungkut, Surabaya",
+          "luas": "3 x 3.5",
+          "fasilitas": "K. Mandi Dalam, AC, TV, Lemari, Kasur, Meja Belajar, WiFi",
+          "peraturan": "Akses 24 Jam, Dilarang merokok di dalam kamar, Tidak boleh membawa hewan peliharaan",
+          "x": "-7.319303",
+          "y": "112.766352"
+       },
+       {
+          "id": 4,
+        "name": "Kost Baru Mulyorejo",
+        "gender": "Putra",
+        "region": "Mulyorejo",
+        "price": "1.300.000",
+        "photoUrl": "https://static.mamikos.com/uploads/cache/data/style/2022-01-19/0qFpQr0K-360x480.jpg",
+        "alamat": "Jl. Kaliwaron Baru No.29, Mulyorejo, Surabaya",
+        "luas": "3 x 3",
+        "fasilitas": "K. Mandi Dalam, AC, Kasur, Lemari, Meja Belajar, WiFi",
+        "peraturan": "Akses 24 Jam, Dilarang merokok di dalam kamar, Tidak boleh membawa hewan peliharaan",
+        "x": "-7.293136",
+        "y": "112.742386"
+      },
+      {
+        "id": 5,
+        "name": "Kost Mulyorejo Setia Budi",
+        "gender": "Putra",
+        "region": "Mulyorejo",
+        "price": "1.350.000",
+        "photoUrl": "https://static.mamikos.com/uploads/cache/data/style/2021-05-14/5dbb0720-8e5c-4ba1-a5e5-cc78eeab3ebf-360x480.jpg",
+        "alamat": "Jl. Setia Budi No. 2, Mulyorejo, Surabaya",
+        "luas": "3 x 3",
+        "fasilitas": "K. Mandi Dalam, AC, Kasur, Lemari, Meja Belajar, WiFi",
+        "peraturan": "Akses 24 Jam, Dilarang merokok di dalam kamar, Tidak boleh membawa hewan peliharaan",
+        "x": "-7.290569",
+       "y": "112.741968"
+    }
+    ]   
+}
