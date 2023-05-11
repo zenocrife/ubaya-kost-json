@@ -91,7 +91,7 @@
          "createdAt": "2022-05-16T10:30:00Z",
          "alamat": "Jalan Ahmad Yani No. 10",
          "email": "john.doe@example.com",
-         "profilePic":"https://i.pravatar.cc/300"
+         "profilePic":"https://images.pexels.com/photos/3444087/pexels-photo-3444087.jpeg?auto=compress&cs=tinysrgb&w=600"
        },
        {
          "user_id": 2,
@@ -102,7 +102,7 @@
          "createdAt": "2022-05-17T08:45:00Z",
          "alamat": "Jalan Raya Pantai Indah No. 15",
          "email": "jane.doe@example.com",
-         "profilePic":"https://i.pravatar.cc/300"
+         "profilePic":"https://images.pexels.com/photos/3646160/pexels-photo-3646160.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
        }
     ],
     "favorites":[
