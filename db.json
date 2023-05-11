@@ -14,7 +14,7 @@
           "x": "-7.3180616",
           "y": "112.7648088",
           "rating": 4.2,
-          "bookmark": false
+          "favorite": false
        },
        {
           "id": 2,
@@ -30,7 +30,7 @@
           "x": "-7.319306",
           "y": "112.7664506",
           "rating": 4.0,
-          "bookmark": true
+          "favorite": true
        },
        {
           "id": 3,
@@ -46,7 +46,7 @@
           "x": "-7.319303",
           "y": "112.766352",
           "rating": 4.5,
-          "bookmark": false
+          "favorite": false
        },
        {
           "id": 4,
@@ -62,7 +62,7 @@
          "x": "-7.293136",
          "y": "112.742386",
          "rating": 3.0,
-         "bookmark": true
+         "favorite": true
       },
       {
         "id": 5,
@@ -78,7 +78,7 @@
         "x": "-7.290569",
         "y": "112.741968",
         "rating": 3.0,
-        "bookmark": true
+        "favorite": true
     }
     ],
     "users":[
