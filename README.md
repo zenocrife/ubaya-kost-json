@@ -1,2 +1,2 @@
 #kostjson
-to get fake data testing
+JSON LINK : https://my-json-server.typicode.com/zenocrife/ubaya-kost-json
