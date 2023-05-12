@@ -104,11 +104,5 @@
          "email": "jane.doe@example.com",
          "profilePic":"https://images.pexels.com/photos/3646160/pexels-photo-3646160.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
        }
-    ],
-    "favorites":[
-      {
-        "id": "1",
-        "kostID": "1"
-      }
     ]
 }
